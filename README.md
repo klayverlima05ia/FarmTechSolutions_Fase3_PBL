@@ -64,3 +64,8 @@ Após a importação, foi realizada a consulta SQL abaixo para visualizar os dad
 ```sql
 SELECT * FROM RESUMO_AREA_CULTIVADA;
 
+## 🎥 Vídeo Demonstrativo
+O vídeo a seguir apresenta o processo completo de conexão, importação e consulta no Oracle SQL Developer:  
+
+🔗 [Assista no YouTube (não listado)](https://youtu.be/LjTiQ2vs-t8)
+
