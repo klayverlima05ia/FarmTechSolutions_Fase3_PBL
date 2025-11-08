@@ -56,9 +56,12 @@ Etapa do processo de importação mostrando o nome da tabela e as colunas detect
 ---
 
 ### 3️⃣ Consulta SQL
+
+```markdown
+![Figura 2 – Consulta SQL executada no Oracle SQL Developer](prints/print_consulta_oracle.png)
+
 Após a importação, foi realizada a consulta SQL abaixo para visualizar os dados carregados:
 
 ```sql
 SELECT * FROM RESUMO_AREA_CULTIVADA;
-```markdown
-![Figura 2 – Consulta SQL executada no Oracle SQL Developer](prints/print_consulta_oracle.png)
+
