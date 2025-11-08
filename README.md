@@ -60,3 +60,5 @@ Após a importação, foi realizada a consulta SQL abaixo para visualizar os dad
 
 ```sql
 SELECT * FROM RESUMO_AREA_CULTIVADA;
+```markdown
+![Figura 2 – Consulta SQL executada no Oracle SQL Developer](prints/print_consulta_oracle.png)
